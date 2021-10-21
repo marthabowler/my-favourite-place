@@ -20,8 +20,11 @@ function Places(): JSX.Element {
         PlaceName={"Borough Market"}
         CountryName={"London"}
         imageUrl={
-          "https://media.istockphoto.com/photos/borough-market-street-food-picture-id904187812?b=1&k=20&m=904187812&s=170667a&w=0&h=wsznexHfdeP2YQB9HnD0ZX-vq4_KNJkFqqw1aYUNMXE="}
-        imageAlt={"A hand holding a burger with a market in the background, the sign says borough market"}
+          "https://media.istockphoto.com/photos/borough-market-street-food-picture-id904187812?b=1&k=20&m=904187812&s=170667a&w=0&h=wsznexHfdeP2YQB9HnD0ZX-vq4_KNJkFqqw1aYUNMXE="
+        }
+        imageAlt={
+          "A hand holding a burger with a market in the background, the sign says borough market"
+        }
         intro={
           'Borough market is located in London near the Shard, it has the most amazing diversity of food. "I buy my mozzarella there every month!"'
         }
