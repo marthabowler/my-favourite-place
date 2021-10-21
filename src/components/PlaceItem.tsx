@@ -10,7 +10,7 @@ interface PlacesProps {
 
 function PlaceItem(props: PlacesProps): JSX.Element {
   return (
-    <section>
+    <section id={props.PlaceName}>
       <img src={props.imageUrl} alt={props.imageAlt} />
       <h2>{props.title}</h2>
       <h3>
