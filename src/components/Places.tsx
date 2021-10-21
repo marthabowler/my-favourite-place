@@ -12,7 +12,7 @@ function Places(): JSX.Element {
         }
         imageAlt={"A church and a tree with the sea in the background"}
         mapUrl={
-          "<iframe src=https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d12108.165440557066!2d14.605417837129933!3d40.65101866941549!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x133b95759806ec37%3A0xfc15a139e8011360!2s84010%20Ravello%2C%20SA%2C%20Italy!5e0!3m2!1sen!2suk!4v1634831634859!5m2!1sen!2suk/iframe>"
+          "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d12108.165440557066!2d14.605417837129933!3d40.65101866941549!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x133b95759806ec37%3A0xfc15a139e8011360!2s84010%20Ravello%2C%20SA%2C%20Italy!5e0!3m2!1sen!2suk!4v1634831634859!5m2!1sen!2suk"
         }
         intro={
           'Ravello has the most amazing views, lemons and 5 star hotels. "It is my favourite place in the world!"'
@@ -23,7 +23,7 @@ function Places(): JSX.Element {
         PlaceName={"Borough Market"}
         CountryName={"London"}
         imageUrl={
-          "<iframe src=https://media.istockphoto.com/photos/borough-market-street-food-picture-id904187812?b=1&k=20&m=904187812&s=170667a&w=0&h=wsznexHfdeP2YQB9HnD0ZX-vq4_KNJkFqqw1aYUNMXE=/iframe>"}
+          "https://media.istockphoto.com/photos/borough-market-street-food-picture-id904187812?b=1&k=20&m=904187812&s=170667a&w=0&h=wsznexHfdeP2YQB9HnD0ZX-vq4_KNJkFqqw1aYUNMXE="}
         imageAlt={
           "A hand holding a burger with a market in the background, the sign says borough market"
         }
