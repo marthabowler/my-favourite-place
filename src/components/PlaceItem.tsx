@@ -4,6 +4,7 @@ interface PlacesProps {
   CountryName: string;
   imageUrl: string;
   imageAlt: string;
+  mapUrl: string;
   intro: string;
 }
 
@@ -15,6 +16,7 @@ function PlaceItem(props: PlacesProps): JSX.Element {
       <h3>
         {props.PlaceName} {","} {props.CountryName}
       </h3>
+      <iframe src={props.mapUrl}></iframe>
       <p>{props.intro}</p>
     </section>
   );
