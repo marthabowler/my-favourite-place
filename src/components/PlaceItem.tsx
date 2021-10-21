@@ -16,7 +16,7 @@ function PlaceItem(props: PlacesProps): JSX.Element {
       <h3>
         {props.PlaceName} {","} {props.CountryName}
       </h3>
-      <iframe title="this title" src={props.mapUrl} ></iframe>
+      <iframe title="this title" src={props.mapUrl}></iframe>
       <p>{props.intro}</p>
     </section>
   );
