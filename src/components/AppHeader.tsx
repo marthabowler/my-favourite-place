@@ -1,9 +1,9 @@
-function AppHeader (): JSX.Element {
-    return (
+function AppHeader(): JSX.Element {
+  return (
     <header>
-        <h1>My Favourite Places</h1>
+      <h1>My Favourite Places</h1>
     </header>
-    );
+  );
 }
 
 export default AppHeader;
