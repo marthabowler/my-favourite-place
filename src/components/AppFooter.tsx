@@ -29,6 +29,10 @@ function AppFooter(): JSX.Element {
       url: "https://www.istockphoto.com/portfolio/visualspace?mediatype=photography",
       name: "visualspace",
     },
+    {
+      url: "https://www.geograph.ie/profile/5835",
+      name: "Albert Bridge",
+    },
   ];
 
   return (

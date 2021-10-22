@@ -15,6 +15,11 @@ function TableContents(): JSX.Element {
             <a href="#Borough Market">Borough Market</a>
           </td>
         </tr>
+        <tr>
+          <td>
+            <a href="#Tayto Factory">Tayto Factory</a>
+          </td>
+        </tr>
       </table>
     </>
   );
